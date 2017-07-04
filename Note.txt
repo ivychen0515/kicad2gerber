@@ -1,0 +1,4 @@
+Call Python with pcbnew start in mac with the following command
+$ PYTHONPATH=/Applications/Kicad/kicad.app/Contents/Frameworks/python/site-packages /Applications/Kicad/kicad.app/Contents/Applications/pcbnew.app/Contents/MacOS/Python
+
+Unsolved board outline file, plot read as gm1 (not correct should be gml), edge_cuts = 44, may be solvable in other pcbnew module or in windows version
